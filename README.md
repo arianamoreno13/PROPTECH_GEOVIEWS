@@ -23,7 +23,7 @@ Installation Guide:
 
 Usage: 
 
-    To analyze the risk of fund profolios. This allows us to determine what we should invest in and what we should potentially pull out of.  
+    Using Proptech data visualization skills. This allows us to determine what are the best real estate investment options in the area. Using this application we can determine what are the best areas to buy for rental properties.
 
 
 Contributors: 
